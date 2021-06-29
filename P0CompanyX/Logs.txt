@@ -1,0 +1,20 @@
+ 
+ 
+2021-06-29 10:59:59 INFO  Menu:78 - User selected all students
+2021-06-29 11:00:04 INFO  Menu:458 - System Exit
+2021-06-29 11:00:04 INFO  Menu:459 - Good Bye
+2021-06-29 13:32:41 INFO  Menu:78 - User selected all students
+2021-06-29 13:32:46 INFO  Menu:98 - User select searching subject
+2021-06-29 13:32:56 INFO  Menu:170 - User select adding a student assistant
+2021-06-29 13:33:51 INFO  Menu:78 - User selected all students
+2021-06-29 13:34:39 INFO  Menu:220 - User select changing an student assistants Subject
+2021-06-29 13:35:13 INFO  Menu:98 - User select searching subject
+2021-06-29 13:35:35 INFO  Menu:261 - User select deleting an student assistant
+2021-06-29 13:35:58 INFO  Menu:78 - User selected all students
+2021-06-29 13:36:09 INFO  Menu:297 - User select subject description
+2021-06-29 13:36:33 INFO  Menu:374 - User selected student assistant compensation change
+2021-06-29 13:37:16 INFO  Menu:297 - User select subject description
+2021-06-29 13:42:52 INFO  Menu:458 - System Exit
+2021-06-29 13:42:52 INFO  Menu:459 - Good Bye
+2021-06-29 13:50:10 INFO  Menu:458 - System Exit
+2021-06-29 13:50:10 INFO  Menu:459 - Good Bye
